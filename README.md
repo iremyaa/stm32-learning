@@ -3,5 +3,5 @@ This repository contains my STM32 learning notes and projects.
 
 ## Progress
 - [x] Day 01 - STM32 Fundamentals
-- [ ] Day 02
+- [x] Day 02 - RCC and Nucleo
 - [ ] Day 03
